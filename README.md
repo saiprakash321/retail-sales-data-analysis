@@ -56,12 +56,10 @@ The dataset contains information about orders, customers, products, sales, disco
 5. Open `Data_Analysis_Task.ipynb` in Jupyter Notebook.
 6. Run the cells from top to bottom.
 
-## Author
-
-**Sai Prakash**
-
-
 
 ## Conclusion
 
 This project demonstrates how Python can be used to explore retail data, visualize sales and profit, and identify business patterns that can support better decision-making.
+## Author
+
+**Sai Prakash**
